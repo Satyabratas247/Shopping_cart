@@ -61,9 +61,8 @@ Hosting and Deployment:
 Deployment on cloud platforms (e.g., AWS, Azure, or Google Cloud) or traditional web hosting services.
 A shopping cart project is an excellent way to showcase proficiency in web development, database management, and integration with external services. It involves creating a user-friendly experience for customers while ensuring the security and reliability of the e-commerce platform.
 
-User
-shopping cart project explain in c++ for backend part with technical words
-ChatGPT
+//More details on shopping cart for beckend part only which is c++
+
 Developing a shopping cart project in C++ for the backend involves implementing server-side logic to handle user requests, manage product information, and process transactions. Here's an overview of the key components and functionalities with technical terms:
 
 Key Components:
